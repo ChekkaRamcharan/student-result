@@ -13,7 +13,6 @@ if a1>=35:
 else: 
     a1result='fail'
 print('the result is',a1result)
-
 Output:
 enter rno9
 enter nameram
