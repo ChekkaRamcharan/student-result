@@ -1,0 +1,25 @@
+#student result
+a1=int(input('enter rno'))
+a1 = (input('enter name'))
+a1=(input('enter group'))
+a1=int(input('maths marks'))
+a1=int(input('statistics marks'))
+a1=int(input('computer science marks'))
+a1=int(input('english marks'))
+a1=int(input('telugu marks'))
+a1=int(input('environment education marks'))
+if a1>=35:
+    a1result='pass'
+else: 
+    a1result='fail'
+print('the result is',a1result)
+enter rno9
+enter nameram
+enter groupmstcs
+maths marks45
+statistics marks55
+computer science marks67
+english marks71
+telugu marks45
+environment education marks49
+the result is pass
